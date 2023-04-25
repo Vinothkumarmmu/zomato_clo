@@ -1,0 +1,22 @@
+.box1{
+    border: 2px solid black;
+    width: 90%;
+    height: auto;
+    margin: auto;  
+    
+}
+.img1{
+    height: auto;
+    
+}
+.h1{
+    text-align: start;
+    
+    
+}
+.bn{
+    margin-left: 85%;
+}
+.tabs{
+    margin-left: 10px;
+}

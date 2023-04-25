@@ -1,0 +1,35 @@
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import './index.css';
+// import App from './App';
+import reportWebVitals from './reportWebVitals';
+// import { BrowserRouter } from 'react-router-dom';
+import Router from './components/day83solu/router'
+// import Header from './components/day84solu/header';
+// import Header from './components/day84solu/header';
+// import Home from './components/day82solu/home';
+// import FilterPage from './components/day83solu/filterpage';
+// import DetailsPage from './components/day83solu/detailspage';
+
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(
+  <React.StrictMode>
+    {/* <BrowserRouter> */}
+    <div>
+    
+    <Router/>
+    </div>
+    
+    {/* </BrowserRouter> */}
+    {/* <Header/> */}
+    {/* <App /> */}
+    {/* <Home/> */}
+    {/* <FilterPage/> */}
+    {/* <DetailsPage/> */}
+  </React.StrictMode>
+);
+
+// If you want to start measuring performance in your app, pass a function
+// to log results (for example: reportWebVitals(console.log))
+// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
+reportWebVitals();

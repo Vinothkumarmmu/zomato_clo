@@ -1,0 +1,126 @@
+#img {
+    height: auto;
+    background-image: url('../asserts/Blog-10-1030x538.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+    margin: auto;
+    padding-bottom: 150px;
+    text-align: right;
+    /* width: 100%; */
+}
+.buttons{
+    font-family: 'Times New Roman', Times, serif;
+    /* margin-left: 85%; */
+    
+
+}
+.loginbutton{
+    background-color: transparent;
+    color: white;
+    border: none;
+    margin-top: 10px;
+    
+}
+.createbutton{
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+    margin-top: 10px;
+}
+.logo{
+    color: orange;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    border: 5px solid white;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin: auto;
+    text-align: center;
+    background-color: white;
+    padding: 2px;
+    font-size: 45px;
+
+}
+/* .row{
+    
+} */
+.hi{
+    color: red;
+    margin: auto;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+    
+}
+.search{
+    /* margin-left: 35%; */
+    text-align: center;
+}
+.cities{
+   /* width: 350px; */
+   height: 33px;
+}
+
+.awesome {
+    /* width: 350px; */
+    /* height: 30px; */
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+    width: 300px;
+}
+.grid{
+    margin: 20px;
+    /* margin-left: 200px; */
+}
+.content {
+    font-size: 50px;
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+}
+.con2{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+/* .container{
+    /* display: grid;
+    margin: 20px;
+    grid-template-columns: 400px 400px 400px;
+    gap: 5px;
+    align-items: center;
+    padding: auto;
+    grid-gap: 20px;
+    align-self: center; */
+    
+/* } */ 
+.column{
+    position: relative; 
+    border: 2px solid black;
+    width: 300px;
+    height: 200px;
+    box-shadow: 2px 2px 2px 2px rgb(56, 48, 48);
+}
+.head1, .head2, .head3, .head4, .head5, .head6 {
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    left: 170px;
+    top: 15px;
+}
+
+p{
+    position: absolute;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    left: 170px;
+    top: 70px;
+    font-style: italic;
+}
+
+
+
+
+
+

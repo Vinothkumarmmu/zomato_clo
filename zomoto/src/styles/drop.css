@@ -1,0 +1,17 @@
+.listing{
+    list-style: none;
+    background-color: lightgrey;
+    background-image: linear-gradient(90deg,red 20px,lightgrey 10px);
+    padding: 10px 15px 10px 25px;
+    border: 1px soild #ccc;
+    box-shadow: inset 1px 1px 0 rgba(255,255,255,0.5);
+    margin-bottom: 5px;
+    margin: auto;
+    box-sizing: border-box;
+    cursor: pointer;
+    border-radius: 3px;
+    width: 300px;
+    position:absolute; 
+    left: 43%;
+
+}
